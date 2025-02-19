@@ -1,0 +1,28 @@
+Package Frontend
+==========================
+1. primevue
+2. taiwindcss
+3. cookies base auth
+4. axios
+5. pinia
+6. nuxt-icon
+
+
+
+env file intial value
+======================================
+# NUXT_API_URL=http://localhost/coder_orbit/ecom/public/api
+# NUXT_API_SECRET=ABACalsdjfEET@=&q-0qwe4325
+# NUXT_API_TOKEN=hNpkY2FxW280gBp
+
+
+# NUXT_API_URL=https://ecom.coderorbit.com/public/api
+# NUXT_API_URL=http://192.168.0.104/api
+NUXT_API_URL=http://192.168.0.104:8000/api
+NUXT_API_SECRET=ABACalsdjfEET@=&q-0qwe4325
+# NUXT_API_TOKEN=sdkVEarrPVQB7OE
+NUXT_API_TOKEN=hNpkY2FxW280gBp
+
+META_BASE_URL=https://coderorbit.com/
+META_BASE_APPLICATION_NAME="coder orbit fashion"
+META_BASE_ICON = "/images/logo.png"
